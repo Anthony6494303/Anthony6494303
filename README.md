@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anthony6494303
+- 👀 I’m interested in JavaScript 
+- 🌱 I’m currently learning Technology 
+- 💞️ I’m looking to collaborate on SHS Games
+- 📫 How to reach me anthonybecerra2219@outlook.com
